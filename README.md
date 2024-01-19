@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my first git repository.
 <br>
-<b> Author <b/> - Varsha Gajakos
+<b> Author <b/> - Varsha Gajakos (Apna College)
